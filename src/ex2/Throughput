@@ -1,0 +1,6 @@
+                       |Small Input |Medium Input   |Large Input
+Number of Elements     |10          |100            |1000
+Average Execution Time |5.47ms      |121.51ms       |3254.88ms
+Throughput             |1.82815     |0.82297        |0,30723
+
+Não linear
